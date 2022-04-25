@@ -4,8 +4,9 @@
 			<style>
 @import url(https://fonts.googleapis.com/css?family=Pathway+Gothic+One);
 
- body {
+.bg-color {
 	 background: -webkit-radial-gradient(center, ellipse cover, #fff 0%, #f2efd9 100%);
+     font-family: 'Pathway Gothic One', sans-serif;
 }
  @-webkit-keyframes rotate-right {
 	 from {
@@ -128,6 +129,7 @@
 	 -webkit-animation: rotate-right 12s linear 0s infinite;
 }
 			</style>	
+<div class="bg-color">
     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
      viewBox="0 0 400 400" enable-background="new 0 0 400 400" xml:space="preserve">
     <g id="jjperezaguinaga">
@@ -2771,71 +2773,72 @@
     </g>
     <g id="Timeless_Design">
         <g>
-            <polygon points="191.413,255.582 190.346,255.157 189.391,255.794 189.466,254.649 188.565,253.937 189.677,253.654 
+            <polygon fill="#000" points="191.413,255.582 190.346,255.157 189.391,255.794 189.466,254.649 188.565,253.937 189.677,253.654 
                 190.075,252.577 190.688,253.549 191.836,253.594 191.101,254.476 		"/>
-            <polygon points="195.247,256.165 194.49,257.028 194.266,255.902 193.211,255.448 194.213,254.887 194.318,253.744 
+            <polygon fill="#000" points="195.247,256.165 194.49,257.028 194.266,255.902 193.211,255.448 194.213,254.887 194.318,253.744 
                 195.162,254.523 196.282,254.269 195.801,255.312 196.388,256.299 		"/>
-            <polygon points="200.338,256.381 199.829,257.41 199.322,256.381 198.184,256.215 199.007,255.414 198.813,254.282 
+            <polygon fill="#000" points="200.338,256.381 199.829,257.41 199.322,256.381 198.184,256.215 199.007,255.414 198.813,254.282 
                 199.829,254.817 200.846,254.282 200.652,255.414 201.475,256.215 		"/>
-            <polygon points="210.186,254.649 210.261,255.794 209.305,255.157 208.24,255.582 208.551,254.476 207.817,253.594 
+            <polygon fill="#000" points="210.186,254.649 210.261,255.794 209.305,255.157 208.24,255.582 208.551,254.476 207.817,253.594 
                 208.964,253.549 209.576,252.577 209.975,253.654 211.087,253.937 		"/>
-            <polygon points="205.16,256.846 204.404,255.983 203.264,256.117 203.851,255.131 203.369,254.088 204.49,254.342 
+            <polygon fill="#000" points="205.16,256.846 204.404,255.983 203.264,256.117 203.851,255.131 203.369,254.088 204.49,254.342 
                 205.333,253.562 205.439,254.706 206.44,255.266 205.386,255.72 		"/>
         </g>
         <g>
             <g>
                 <line fill="none" x1="136.654" y1="231.395" x2="287.233" y2="198.513"/>
-                <text transform="matrix(0.977 -0.2134 0 1 149.3367 226.363)" font-family="'Pathway Gothic One'" font-size="39.6581">T</text>
-                <text transform="matrix(0.977 -0.2133 0 1 161.5945 223.6863)" font-family="'Pathway Gothic One'" font-size="39.6581">R</text>
-                <text transform="matrix(0.977 -0.2133 0 1 175.5847 220.6306)" font-family="'Pathway Gothic One'" font-size="39.6581">A</text>
-                <text transform="matrix(0.977 -0.2133 0 1 190.0623 217.4695)" font-family="'Pathway Gothic One'" font-size="39.6581">V</text>
-                <text transform="matrix(0.977 -0.2133 0 1 203.6252 214.5085)" font-family="'Pathway Gothic One'" font-size="39.6581">E</text>
-                <text transform="matrix(0.977 -0.2133 0 1 215.5266 211.9099)" font-family="'Pathway Gothic One'" font-size="39.6581">L</text>
-                <text transform="matrix(0.977 -0.2133 0 1 226.9495 209.4148)" font-family="'Pathway Gothic One'" font-size="39.6581">E</text>
-                <text transform="matrix(0.977 -0.2133 0 1 238.844 206.8171)" font-family="'Pathway Gothic One'" font-size="39.6581">R</text>
+                <text transform="matrix(0.977 -0.2134 0 1 147.3367 226.363)" fill="#000" font-size="39.6581">J</text>
+                <text transform="matrix(0.977 -0.2133 0 1 158.5945 223.6863)" fill="#000" font-size="39.6581">S</text>
+                <text transform="matrix(0.977 -0.2133 0 1 172.5847 220.6306)" fill="#000" font-size="39.6581">M</text>
+                <text transform="matrix(0.977 -0.2133 0 1 192.0623 216.4695)" fill="#000" font-size="39.6581">A</text>
+                <text transform="matrix(0.977 -0.2133 0 1 205.6252 213.5085)" fill="#000" font-size="39.6581">S</text>
+                <text transform="matrix(0.977 -0.2133 0 1 218.5266 210.9099)" fill="#000" font-size="39.6581">T</text>
+                <text transform="matrix(0.977 -0.2133 0 1 228.9495 208.4148)" fill="#000" font-size="39.6581">E</text>
+                <text transform="matrix(0.977 -0.2133 0 1 240.844 205.8171)" fill="#000" font-size="39.6581">R</text>
             </g>
             <g>
                 <line fill="none" x1="146.574" y1="189.775" x2="205.712" y2="176.861"/>
-                <text transform="matrix(0.977 -0.2134 0 1 151.6272 187.7834)" font-family="'Pathway Gothic One'" font-size="15.5752">B</text>
-                <text transform="matrix(0.977 -0.2134 0 1 157.1804 186.5706)" font-family="'Pathway Gothic One'" font-size="15.5752">E</text>
-                <text transform="matrix(0.977 -0.2134 0 1 161.8459 185.552)" font-family="'Pathway Gothic One'" font-size="15.5752">C</text>
-                <text transform="matrix(0.977 -0.2134 0 1 167.1052 184.4036)" font-family="'Pathway Gothic One'" font-size="15.5752">O</text>
-                <text transform="matrix(0.977 -0.2133 0 1 172.5046 183.2244)" font-family="'Pathway Gothic One'" font-size="15.5752">M</text>
-                <text transform="matrix(0.977 -0.2133 0 1 179.8552 181.6189)" font-family="'Pathway Gothic One'" font-size="15.5752">E</text>
-                <text transform="matrix(0.977 -0.2133 0 1 184.5198 180.6003)" font-family="'Pathway Gothic One'" font-size="15.5752"> </text>
-                <text transform="matrix(0.977 -0.2133 0 1 186.8635 180.0886)" font-family="'Pathway Gothic One'" font-size="15.5752">A</text>
+                <text transform="matrix(0.977 -0.2134 0 1 151.6272 187.7834)" fill="#000" font-size="15.5752">B</text>
+                <text transform="matrix(0.977 -0.2134 0 1 157.1804 186.5706)" fill="#000" font-size="15.5752">E</text>
+                <text transform="matrix(0.977 -0.2134 0 1 161.8459 185.552)" fill="#000" font-size="15.5752">C</text>
+                <text transform="matrix(0.977 -0.2134 0 1 167.1052 184.4036)" fill="#000" font-size="15.5752">O</text>
+                <text transform="matrix(0.977 -0.2133 0 1 172.5046 183.2244)" fill="#000" font-size="15.5752">M</text>
+                <text transform="matrix(0.977 -0.2133 0 1 179.8552 181.6189)" fill="#000" font-size="15.5752">E</text>
+                <text transform="matrix(0.977 -0.2133 0 1 184.5198 180.6003)" fill="#000" font-size="15.5752"> </text>
+                <text transform="matrix(0.977 -0.2133 0 1 186.8635 180.0886)" fill="#000" font-size="15.5752">A</text>
             </g>
             <g>
                 <line fill="none" x1="213.236" y1="234.207" x2="272.375" y2="221.292"/>
-                <text transform="matrix(0.977 -0.2133 0 1 218.2815 232.2166)" font-family="'Pathway Gothic One'" font-size="15.5752"> </text>
-                <text transform="matrix(0.977 -0.2134 0 1 220.6321 231.7029)" font-family="'Pathway Gothic One'" font-size="15.5752"> </text>
-                <text transform="matrix(0.977 -0.2133 0 1 222.9778 231.1912)" font-family="'Pathway Gothic One'" font-size="15.5752">T</text>
-                <text transform="matrix(0.977 -0.2134 0 1 227.7874 230.1404)" font-family="'Pathway Gothic One'" font-size="15.5752">O</text>
-                <text transform="matrix(0.977 -0.2133 0 1 233.1858 228.9607)" font-family="'Pathway Gothic One'" font-size="15.5752">D</text>
-                <text transform="matrix(0.977 -0.2133 0 1 238.8342 227.7273)" font-family="'Pathway Gothic One'" font-size="15.5752">A</text>
-                <text transform="matrix(0.977 -0.2134 0 1 244.5217 226.4861)" font-family="'Pathway Gothic One'" font-size="15.5752">Y</text>
+                <text transform="matrix(0.977 -0.2133 0 1 218.2815 232.2166)" fill="#000" font-size="15.5752"> </text>
+                <text transform="matrix(0.977 -0.2134 0 1 220.6321 231.7029)" fill="#000" font-size="15.5752"> </text>
+                <text transform="matrix(0.977 -0.2133 0 1 222.9778 231.1912)" fill="#000" font-size="15.5752">T</text>
+                <text transform="matrix(0.977 -0.2134 0 1 227.7874 230.1404)" fill="#000" font-size="15.5752">O</text>
+                <text transform="matrix(0.977 -0.2133 0 1 233.1858 228.9607)" fill="#000" font-size="15.5752">D</text>
+                <text transform="matrix(0.977 -0.2133 0 1 238.8342 227.7273)" fill="#000" font-size="15.5752">A</text>
+                <text transform="matrix(0.977 -0.2134 0 1 244.5217 226.4861)" fill="#000" font-size="15.5752">Y</text>
             </g>
             
-                <rect x="152.606" y="219.751" transform="matrix(0.9774 -0.2115 0.2115 0.9774 -42.0389 47.9254)" width="100.736" height="1.385"/>
-            <polyline points="202.615,221.111 199.696,225.441 196.699,221.142 		"/>
+                <rect fill="#000" x="152.606" y="219.751" transform="matrix(0.9774 -0.2115 0.2115 0.9774 -42.0389 47.9254)" width="100.736" height="1.385"/>
+            <polyline fill="#000" points="202.615,221.111 199.696,225.441 196.699,221.142 		"/>
             
-                <rect x="146.7" y="180.439" transform="matrix(-0.9774 0.2115 -0.2115 -0.9774 427.992 316.4788)" width="100.736" height="1.385"/>
-            <polyline points="196.699,180.647 199.619,176.315 202.615,180.615 		"/>
+                <rect fill="#000" x="146.7" y="180.439" transform="matrix(-0.9774 0.2115 -0.2115 -0.9774 427.992 316.4788)" width="100.736" height="1.385"/>
+            <polyline fill="#000" points="196.699,180.647 199.619,176.315 202.615,180.615 		"/>
             <g>
-                <polygon points="191.413,146.273 190.346,146.698 189.391,146.06 189.466,147.206 188.565,147.917 189.677,148.2 
+                <polygon fill="#000" points="191.413,146.273 190.346,146.698 189.391,146.06 189.466,147.206 188.565,147.917 189.677,148.2 
                     190.075,149.277 190.688,148.306 191.836,148.261 191.101,147.378 			"/>
-                <polygon points="195.247,145.69 194.49,144.826 194.266,145.952 193.211,146.406 194.213,146.967 194.318,148.111 
+                <polygon fill="#000" points="195.247,145.69 194.49,144.826 194.266,145.952 193.211,146.406 194.213,146.967 194.318,148.111 
                     195.162,147.332 196.282,147.584 195.801,146.542 196.388,145.555 			"/>
-                <polygon points="200.338,145.474 199.829,144.445 199.322,145.474 198.184,145.639 199.007,146.441 198.813,147.572 
+                <polygon fill="#000" points="200.338,145.474 199.829,144.445 199.322,145.474 198.184,145.639 199.007,146.441 198.813,147.572 
                     199.829,147.038 200.846,147.572 200.652,146.441 201.475,145.639 			"/>
-                <polygon points="210.186,147.206 210.261,146.06 209.305,146.698 208.24,146.273 208.551,147.378 207.817,148.261 
+                <polygon fill="#000" points="210.186,147.206 210.261,146.06 209.305,146.698 208.24,146.273 208.551,147.378 207.817,148.261 
                     208.964,148.306 209.576,149.277 209.975,148.2 211.087,147.917 			"/>
-                <polygon points="205.16,145.008 204.404,145.871 203.264,145.737 203.851,146.724 203.369,147.766 204.49,147.513 
+                <polygon fill="#000" points="205.16,145.008 204.404,145.871 203.264,145.737 203.851,146.724 203.369,147.766 204.49,147.513 
                     205.333,148.292 205.439,147.15 206.44,146.588 205.386,146.135 			"/>
             </g>
         </g>
     </g>
     </svg>
+</div>
 		</div>
 	</foreignObject>
 </svg>
