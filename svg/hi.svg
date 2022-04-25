@@ -2787,35 +2787,35 @@
         <g>
             <g>
                 <line fill="none" x1="136.654" y1="231.395" x2="287.233" y2="198.513"/>
-                <text transform="matrix(0.977 -0.2134 0 1 147.3367 226.363)" fill="#000" font-size="39.6581">J</text>
-                <text transform="matrix(0.977 -0.2133 0 1 158.5945 223.6863)" fill="#000" font-size="39.6581">S</text>
-                <text transform="matrix(0.977 -0.2133 0 1 172.5847 220.6306)" fill="#000" font-size="39.6581">M</text>
-                <text transform="matrix(0.977 -0.2133 0 1 192.0623 216.4695)" fill="#000" font-size="39.6581">A</text>
-                <text transform="matrix(0.977 -0.2133 0 1 205.6252 213.5085)" fill="#000" font-size="39.6581">S</text>
-                <text transform="matrix(0.977 -0.2133 0 1 218.5266 210.9099)" fill="#000" font-size="39.6581">T</text>
-                <text transform="matrix(0.977 -0.2133 0 1 228.9495 208.4148)" fill="#000" font-size="39.6581">E</text>
-                <text transform="matrix(0.977 -0.2133 0 1 240.844 205.8171)" fill="#000" font-size="39.6581">R</text>
+                <text transform="matrix(0.65 -0.1034 0 1 147.3367 226.363)" fill="#000" font-size="40">J</text>
+                <text transform="matrix(0.65 -0.1033 0 1 158.5945 223.6863)" fill="#000" font-size="40">S</text>
+                <text transform="matrix(0.65 -0.033 0 1 172.5847 220.6306)" fill="#000" font-size="40">M</text>
+                <text transform="matrix(0.65 -0.1033 0 1 192.0623 216.4695)" fill="#000" font-size="40">A</text>
+                <text transform="matrix(0.65 -0.1033 0 1 205.6252 213.5085)" fill="#000" font-size="40">S</text>
+                <text transform="matrix(0.65 -0.1033 0 1 218.5266 210.9099)" fill="#000" font-size="40">T</text>
+                <text transform="matrix(0.65 -0.1033 0 1 228.9495 208.4148)" fill="#000" font-size="40">E</text>
+                <text transform="matrix(0.65 -0.1033 0 1 240.844 205.8171)" fill="#000" font-size="40">R</text>
             </g>
             <g>
                 <line fill="none" x1="146.574" y1="189.775" x2="205.712" y2="176.861"/>
-                <text transform="matrix(0.977 -0.2134 0 1 151.6272 187.7834)" fill="#000" font-size="15.5752">B</text>
-                <text transform="matrix(0.977 -0.2134 0 1 157.1804 186.5706)" fill="#000" font-size="15.5752">E</text>
-                <text transform="matrix(0.977 -0.2134 0 1 161.8459 185.552)" fill="#000" font-size="15.5752">C</text>
-                <text transform="matrix(0.977 -0.2134 0 1 167.1052 184.4036)" fill="#000" font-size="15.5752">O</text>
-                <text transform="matrix(0.977 -0.2133 0 1 172.5046 183.2244)" fill="#000" font-size="15.5752">M</text>
-                <text transform="matrix(0.977 -0.2133 0 1 179.8552 181.6189)" fill="#000" font-size="15.5752">E</text>
-                <text transform="matrix(0.977 -0.2133 0 1 184.5198 180.6003)" fill="#000" font-size="15.5752"> </text>
-                <text transform="matrix(0.977 -0.2133 0 1 186.8635 180.0886)" fill="#000" font-size="15.5752">A</text>
+                <text transform="matrix(0.977 -0.2134 0 1 151.6272 187.7834)" fill="#000" font-size="8">B</text>
+                <text transform="matrix(0.977 -0.2134 0 1 157.1804 186.5706)" fill="#000" font-size="8">E</text>
+                <text transform="matrix(0.977 -0.2134 0 1 161.8459 185.552)" fill="#000" font-size="8">C</text>
+                <text transform="matrix(0.977 -0.2134 0 1 167.1052 184.4036)" fill="#000" font-size="8">O</text>
+                <text transform="matrix(0.977 -0.2133 0 1 172.5046 183.2244)" fill="#000" font-size="8">M</text>
+                <text transform="matrix(0.977 -0.2133 0 1 179.8552 181.6189)" fill="#000" font-size="8">E</text>
+                <text transform="matrix(0.977 -0.2133 0 1 184.5198 180.6003)" fill="#000" font-size="8"> </text>
+                <text transform="matrix(0.977 -0.2133 0 1 186.8635 180.0886)" fill="#000" font-size="8">A</text>
             </g>
             <g>
                 <line fill="none" x1="213.236" y1="234.207" x2="272.375" y2="221.292"/>
-                <text transform="matrix(0.977 -0.2133 0 1 218.2815 232.2166)" fill="#000" font-size="15.5752"> </text>
-                <text transform="matrix(0.977 -0.2134 0 1 220.6321 231.7029)" fill="#000" font-size="15.5752"> </text>
-                <text transform="matrix(0.977 -0.2133 0 1 222.9778 231.1912)" fill="#000" font-size="15.5752">T</text>
-                <text transform="matrix(0.977 -0.2134 0 1 227.7874 230.1404)" fill="#000" font-size="15.5752">O</text>
-                <text transform="matrix(0.977 -0.2133 0 1 233.1858 228.9607)" fill="#000" font-size="15.5752">D</text>
-                <text transform="matrix(0.977 -0.2133 0 1 238.8342 227.7273)" fill="#000" font-size="15.5752">A</text>
-                <text transform="matrix(0.977 -0.2134 0 1 244.5217 226.4861)" fill="#000" font-size="15.5752">Y</text>
+                <text transform="matrix(0.977 -0.2133 0 1 218.2815 232.2166)" fill="#000" font-size="8"> </text>
+                <text transform="matrix(0.977 -0.2134 0 1 220.6321 231.7029)" fill="#000" font-size="8"> </text>
+                <text transform="matrix(0.977 -0.2133 0 1 222.9778 231.1912)" fill="#000" font-size="8">T</text>
+                <text transform="matrix(0.977 -0.2134 0 1 227.7874 230.1404)" fill="#000" font-size="8">O</text>
+                <text transform="matrix(0.977 -0.2133 0 1 233.1858 228.9607)" fill="#000" font-size="8">D</text>
+                <text transform="matrix(0.977 -0.2133 0 1 238.8342 227.7273)" fill="#000" font-size="8">A</text>
+                <text transform="matrix(0.977 -0.2134 0 1 244.5217 226.4861)" fill="#000" font-size="8">Y</text>
             </g>
             
                 <rect fill="#000" x="152.606" y="219.751" transform="matrix(0.9774 -0.2115 0.2115 0.9774 -42.0389 47.9254)" width="100.736" height="1.385"/>
