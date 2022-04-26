@@ -157,7 +157,7 @@
 }
 .loading__ring svg {
     animation: rotate 1.5s linear infinite;
-    fill: rgb(5 151 93 / 80%);
+    fill: rgb(255 0 219);
 }
 
 .ani-plane{
