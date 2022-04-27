@@ -15,7 +15,9 @@
   }
   #bongo-cat {
 	position: absolute;
-	top: 90vh;
+	top: 100vh;
+      height: 100vh;
+    width: 135vw;
 	bottom: 0;
 	left: 0;
 	right: 0;
